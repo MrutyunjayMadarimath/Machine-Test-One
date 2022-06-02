@@ -1,0 +1,44 @@
+
+
+.section-one, .footer-sec{
+    background-color: #007ac3!important;
+}
+
+.heading{
+    color:  #007ac3;
+}
+
+.btn-primary {
+    background-color: #007ac3!important;
+}
+
+
+.link-color{
+   color: #8cd5ff;
+}
+
+input.form-control{
+    height: 1.5rem;
+}
+
+.fill-form{
+    border-radius: 40px;
+}
+
+input.form-control, select.form-select{
+    border-radius: 30px;
+}
+
+.fs-8{
+    font-size: 0.8rem;
+}
+
+ @media screen and (max-width:992px){
+    .form{
+        position: relative;
+        bottom: 150px;
+        right: 10px;
+        border-radius: 15px;
+    }
+    
+ }
